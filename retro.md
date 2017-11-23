@@ -1,0 +1,3 @@
+Start, Stop, Continue, More of, Less of Wheel on tapa tuoda esille parannsehdotuksia kuluneesta sprintistä lyhyessä retrospektiivitilaisuudessa. Paperille piirretään viiteen osaan jaettu ympyrä jotka nimetään Start, Stop, Continue, More of ja Less of. Jokaisesta kysytään kommentteja ja kirjoitetaan kuvaan.
+
+Glad, Sad, Mad on toinen hieman pidempi retrospektiivitapa. Jokainen kirjoittaa lapuille kommentteja sprintistä ja kaikki laput jaetaan kolmeen kategoriaan: hyviin, negatiivisiin ja laajempiin, mahdollisesti ulkopuolisiin huoliin. Jokainen äänestää merkkejä piirtämällä mistä lapuista haluaa keskusteltavan. Lopuksi laput käydään läpi keskustellen äänestetyssä järjestyksessä.
